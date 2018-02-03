@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "trinh-duyet-web"]
+	url = https://github.com/vdnguyenbk98/trinh-duyet-web.git
+	fetch = +refs/heads/*:refs/remotes/trinh-duyet-web/*
